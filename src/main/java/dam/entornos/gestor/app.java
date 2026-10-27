@@ -17,6 +17,8 @@ public class app {
 		System.out.println("versión de desarrollo");
 
 		System.out.println("ESTE ES EL ESTDO DEL SISTEMA: " + estado);
+		
+		System.out.println("Mensaje técnico: incidencia registrada correctamente");
 
 	}
 
